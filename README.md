@@ -15,8 +15,6 @@
 <p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>
 <img width="1238" alt="image" src="https://github.com/user-attachments/assets/99c4fa29-aa83-4e31-9a9f-29bce4c7dd57" />
 
-<p align="left">I'm a student from Kyrgyzstan <br><br>- 🔭 I’m working as an assistant <br>- 📚 I'm currently learning a lot of new things<br>- ⚡ In my free time I love to go out</p>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
